@@ -2,7 +2,7 @@
 layout: default
 ---
 <center>
-<a href="#privacy">Politique de confidentialité </a>
+<a href="#privacy">Politique de confidentialité</a>
 <br />
 Contact: <meteocom [at] proton.me>
 <br />
